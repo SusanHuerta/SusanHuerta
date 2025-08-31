@@ -20,19 +20,11 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 ## 🏅 Certifications
 
-<!-- SHRM-SCP: Blue (SHRM brand) -->
-<img src="https://img.shields.io/badge/SHRM--SCP-May%202025-005A9C?style=flat&logo=shrm&logoColor=white" />
+<!-- SHRM-SCP: Blue (SHRM brand) --> <img src="https://img.shields.io/badge/SHRM--SCP-May%202025-005A9C?style=flat&logo=shrm&logoColor=white" />
 
-<img src="https://img.shields.io/badge/SHRM--SCP%20May%202025-005A9C?style=flat&logo=shrm&logoColor=white" />
+<!-- HRCI Certifications: Red (HRCI brand) --> <img src="https://img.shields.io/badge/SPHR-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" /> <img src="https://img.shields.io/badge/SPHRi-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" /> <img src="https://img.shields.io/badge/GPHR-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" />
 
-<!-- HRCI Certifications: Red (HRCI brand) -->
-<img src="https://img.shields.io/badge/SPHR-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" />
-<img src="https://img.shields.io/badge/SPHRi-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" />
-<img src="https://img.shields.io/badge/GPHR-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" />
-
-<!-- Google Certifications: Google brand colors -->
-<img src="https://img.shields.io/badge/Google%20Project%20Management-Aug%202025-4285F4?style=flat&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Data%20Analytics-Aug%202025-34A853?style=flat&logo=google&logoColor=white" />
+<!-- Google Certifications: Google brand colors --> <img src="https://img.shields.io/badge/Google%20Project%20Management-Aug%202025-4285F4?style=flat&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Aug%202025-34A853?style=flat&logo=google&logoColor=white" />
 
 
 ## 💻 Tech Stack  
