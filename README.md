@@ -7,9 +7,14 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 
 ## 🌐 Languages
+<h3>🌐 Languages</h3>
 
-![English](https://img.shields.io/badge/English-Native-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge&logo=googletranslate&logoColor=white)
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/English-Native-blue?style=flat&logo=googletranslate&logoColor=white" />
+</a>
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat&logo=googletranslate&logoColor=white" />
+</a>
 
 🗣️ Native fluency in both English and Spanish, with a deep understanding of cultural nuance, tone, and audience adaptation. I craft inclusive messaging, lead bilingual outreach, and build bridges across global teams with clarity and empathy.
 
