@@ -36,7 +36,6 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
     </td>
   </tr>
 </table>
----
 
 ## 🌐 Languages
 
