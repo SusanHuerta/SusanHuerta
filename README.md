@@ -40,14 +40,8 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 ## 💻 Tech Stack  
 
 #### 🗂 Productivity & Collaboration  
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?logo=google&logoColor=white)  
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white)  
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)  
-![Calendly](https://img.shields.io/badge/Calendly-006BFF?logo=calendly&logoColor=white)  
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?logo=google&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) ![Calendly](https://img.shields.io/badge/Calendly-006BFF?logo=calendly&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
 #### 🎯 HR & Business Tools  
 ![LinkedIn Sales Navigator](https://img.shields.io/badge/LinkedIn%20Sales%20Navigator-0A66C2?logo=linkedin&logoColor=white) ![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn%20Recruiter-0A66C2?logo=linkedin&logoColor=white) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white) ![SurveyMonkey](https://img.shields.io/badge/SurveyMonkey-00BF6F?logo=surveymonkey&logoColor=white)  
