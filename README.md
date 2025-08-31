@@ -2,8 +2,11 @@
 Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Management who believes that how we make people feel is just as important as what we build. I’m passionate about understanding a company’s DNA—its mission, vision, and values—and translating that into clear, accessible processes that empower every stakeholder. By designing simple, human-centered workflows and fostering consistent, transparent communication, I help position HR as a strategic business partner that drives meaningful, lasting impact.<br><br>- 🔭 Currently in HR: I lead initiatives in talent acquisition, management, engagement, and retention, always with a focus on elevating stakeholders experience, optimizing compensation & benefits, streamlining HR workflows, and strengthening internal communication. My experience spans industries like tech, HR consulting, marketing, e-commerce, retail, hospitality, and oil & gas, across regions including Latin America, the U.S., Europe, and the Middle East.<br>- 🌱 Always Learning: I’m upgrading my expertise in advanced project management frameworks, refining my digital marketing strategy, and customer satisfaction o drive cross-functional collaboration and enrich employee experience programs.<br>-👯 Open to Collaboration: I’m excited to partner with organizations on projects that blend HR innovation, strategic marketing, and project management, especially those that challenge conventional thinking and foster meaningful change.<br>- 🤔 Seeking Insight: I’m exploring best practices to enhance stakeholder experiences—whether employees, managers, or customers—by decoding company culture, listening deeply to needs and expectations, and crafting proactive strategies that position HR as a strategic business partner.<br>- 💬 Ask Me About: HR strategy, employee experience design, digital marketing for internal comms, project management tools, or building authentic team culture.<br>- 📫 How to reach me: susankhuertaca@gmail.com<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: My dogs are my unofficial assistants - always nearby, reminding me that empathy, presence, and a little playfulness go a long way in stakeholder relationships.<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/susanhuertaca/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:susankhuertaca@gmail.com) 
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR-GITHUB)  
+[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://YOUR-SUBSTACK.com)   
 
 
 ## 🌐 Languages
@@ -16,10 +19,10 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 ## 🏅 Certifications
 
-![SHRM-SCP](https://img.shields.io/badge/SHRM--SCP-May%202025-blueviolet?style=for-the-badge)
-![SPHR](https://img.shields.io/badge/SPHR-April%202025-blue?style=for-the-badge)
-![SPHRi](https://img.shields.io/badge/SPHRi-April%202025-blue?style=for-the-badge)
-![GPHR](https://img.shields.io/badge/GPHR-April%202025-blue?style=for-the-badge)
+![SHRM-SCP](https://img.shields.io/badge/SHRM--SCP-May%202025-blue?style=for-the-badge)
+![SPHR](https://img.shields.io/badge/SPHR-April%202025-blueviolet?style=for-the-badge)
+![SPHRi](https://img.shields.io/badge/SPHRi-April%202025-blueviolet?style=for-the-badge)
+![GPHR](https://img.shields.io/badge/GPHR-April%202025-blueviolet?style=for-the-badge)
 ![Google Project Management](https://img.shields.io/badge/Google%20Project%20Management-Aug%202025-yellowgreen?style=for-the-badge&logo=google&logoColor=white)
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Aug%202025-yellowgreen?style=for-the-badge&logo=google&logoColor=white)
 
