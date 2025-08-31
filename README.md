@@ -8,8 +8,8 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 ## 🌐 Languages
 
-![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
-![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=english&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge&logo=spanish&logoColor=white)
 
 
 ## 🏅 Certifications
