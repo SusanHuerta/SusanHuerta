@@ -38,6 +38,37 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 </table>
 ---
 
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="padding:20px;">
+      <div style="text-align:center;"><strong>🧭 People Whisperer</strong></div>
+      <div style="text-align:center;"><em>HR Strategy | Culture Design | Employee Empowerment</em></div><br>
+      I design environments where people feel seen, supported, and inspired to thrive. From retention frameworks to development plans, I build systems that nurture belonging and elevate performance.
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:20px;">
+      <div style="text-align:center;"><strong>🧠 Customer-Centric Thinker</strong></div>
+      <div style="text-align:center;"><em>CX Strategy | Empathy-Driven Innovation | Brand Loyalty</em></div><br>
+      I translate empathy into business advantage, bridging internal culture with external experience. By aligning feedback loops and purpose-driven service, I help brands earn trust and deepen connection.
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:20px;">
+      <div style="text-align:center;"><strong>🎙 Communication-Driven Strategist</strong></div>
+      <div style="text-align:center;"><em>Messaging Strategy | Brand Voice | Behavioral Influence</em></div><br>
+      I turn insight into influence, crafting narratives that transform, connect, and reflect mission. With a pulse on human behavior and strategic storytelling, I create communications that move people to act.
+      <hr>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:20px;">
+      <div style="text-align:center;"><strong>🧩 Clarity-Focused Operator</strong></div>
+      <div style="text-align:center;"><em>Project Execution | Agile Leadership | Results-Driven Strategy</em></div><br>
+      I bring structure to ambition, simplifying complexity and driving results with precision. Whether leading cross-functional teams or streamlining workflows, I keep momentum aligned with the mission.
+
 
 ## 🌐 Languages
 
