@@ -69,4 +69,4 @@ My GitHub journey is just beginning, but every contribution reflects the same in
 This space is where I experiment, iterate, and document the behind-the-scenes of HR systems, internal branding, and bilingual outreach, all with a focus on clarity and connection.
 GitHub isn’t just for code. For me, it’s a canvas for building processes that feel human, workflows that make sense, and digital stories that resonate.
 
-🔗 Explore my full portfolio: [susanhuerta-Resume](https://github.com/SusanHuerta/susanhuerta-Resume)
+🔗 Explore my full Resume: [susanhuerta-resume](https://github.com/SusanHuerta/Resume)
