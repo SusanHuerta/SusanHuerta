@@ -62,14 +62,9 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 ![](https://github-readme-stats.vercel.app/api?username=SusanHuerta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SusanHuerta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanHuerta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+up.
 
 
-## 📊 GitHub Activity Snapshot
-
-🐾 **Starting small, staying consistent**  
-🔥 **Current streak**: 3 days (Aug 29–31)  
-📈 **Total contributions**: 5  
-🧠 **Longest streak**: 3 days — and we’re just warming up.
-
-> While my GitHub stats are still in their early chapters, every commit reflects the same care I bring to team culture, stakeholder experience, and digital storytelling. I’m here to build with intention — whether it’s refining workflows, designing badges, or crafting bilingual outreach that resonates.
-
+My GitHub journey is just beginning, but every contribution reflects the same intention I bring to team culture, stakeholder experience, and creative communication.
+This space is where I experiment, iterate, and document the behind-the-scenes of HR systems, internal branding, and bilingual outreach, all with a focus on clarity and connection.
+GitHub isn’t just for code. For me, it’s a canvas for building processes that feel human, workflows that make sense, and digital stories that resonate.
