@@ -3,10 +3,7 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR-GITHUB)  
-[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://YOUR-SUBSTACK.com)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR-GITHUB)  [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://YOUR-SUBSTACK.com)   
 
 
 ## 🌐 Languages
