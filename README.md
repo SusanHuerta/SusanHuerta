@@ -53,18 +53,6 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 ## 🧩 Core Competencies
 
-- Global Project Coordination  
-- Recruitment Strategy & Candidate Experience  
-- Process Optimization & Workflow Efficiency  
-- Strategic Communication & Adaptability  
-- Leadership & Team Development  
-- Data-Driven Decision Making & Analytics
-
----- NEW ONE
-
-
-## 🧩 Core Competencies
-
 <!-- All badges use soft gray for consistency -->
 <img src="https://img.shields.io/badge/Global%20Project%20Coordination-6E6E6E?style=flat&logo=codeforces&logoColor=white" />
 <img src="https://img.shields.io/badge/Recruitment%20Strategy%20%26%20Candidate%20Experience-6E6E6E?style=flat&logo=workplace&logoColor=white" />
@@ -72,8 +60,6 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 <img src="https://img.shields.io/badge/Strategic%20Communication%20%26%20Adaptability-6E6E6E?style=flat&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Leadership%20%26%20Team%20Development-6E6E6E?style=flat&logo=people&logoColor=white" />
 <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making%20%26%20Analytics-6E6E6E?style=flat&logo=powerbi&logoColor=white" />
-
-
 
   
 # 📊 GitHub Stats:
