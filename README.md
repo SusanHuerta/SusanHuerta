@@ -7,7 +7,6 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 
 ## 🌐 Languages
-<h3>🌐 Languages</h3>
 
 <a href="#" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/English-Native-blue?style=flat&logo=googletranslate&logoColor=white" />
@@ -21,12 +20,24 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 ## 🏅 Certifications
 
-![SHRM-SCP](https://img.shields.io/badge/SHRM--SCP-May%202025-005A9C?style=for-the-badge&logo=shrm&logoColor=white)
-![SPHR](https://img.shields.io/badge/SPHR-April%202025-005A9C?style=for-the-badge&logo=hrci&logoColor=white)
-![SPHRi](https://img.shields.io/badge/SPHRi-April%202025-005A9C?style=for-the-badge&logo=hrci&logoColor=white)
-![GPHR](https://img.shields.io/badge/GPHR-April%202025-005A9C?style=for-the-badge&logo=hrci&logoColor=white)
-![Google PM](https://img.shields.io/badge/Google%20Project%20Management-Aug%202025-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google DA](https://img.shields.io/badge/Google%20Data%20Analytics-Aug%202025-34A853?style=for-the-badge&logo=google&logoColor=white)
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/SHRM--SCP-May%202025-005A9C?style=flat&logo=shrm&logoColor=white" />
+</a>
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/SPHR-April%202025-005A9C?style=flat&logo=hrci&logoColor=white" />
+</a>
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/SPHRi-April%202025-005A9C?style=flat&logo=hrci&logoColor=white" />
+</a>
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/GPHR-April%202025-005A9C?style=flat&logo=hrci&logoColor=white" />
+</a>
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Google%20Project%20Management-Aug%202025-4285F4?style=flat&logo=google&logoColor=white" />
+</a>
+<a href="#" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Aug%202025-34A853?style=flat&logo=google&logoColor=white" />
+</a>
 
 
 ## 💻 Tech Stack  
