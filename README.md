@@ -62,7 +62,6 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 ![](https://github-readme-stats.vercel.app/api?username=SusanHuerta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SusanHuerta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanHuerta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-up.
 
 
 My GitHub journey is just beginning, but every contribution reflects the same intention I bring to team culture, stakeholder experience, and creative communication.
