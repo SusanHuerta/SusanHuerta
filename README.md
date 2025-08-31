@@ -60,6 +60,12 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 - Leadership & Team Development  
 - Data-Driven Decision Making & Analytics
 
+- <div style="display: flex; flex-wrap: wrap; gap: 24px; line-height: 1.6; font-size: 16px;">
+
+<div style="flex: 1;"> <ul> <li><strong>Global Project Coordination</strong><br><span style="color:gray;">Cross-functional leadership across time zones and cultures</span></li> <li><strong>Recruitment Strategy & Candidate Experience</strong><br><span style="color:gray;">Empathy-driven hiring with strategic sourcing</span></li> <li><strong>Process Optimization & Workflow Efficiency</strong><br><span style="color:gray;">Streamlining systems for clarity and impact</span></li> </ul> </div>
+
+<div style="flex: 1;"> <ul> <li><strong>Strategic Communication & Adaptability</strong><br><span style="color:gray;">Tailored messaging for diverse audiences</span></li> <li><strong>Leadership & Team Development</strong><br><span style="color:gray;">Building authentic cultures that scale</span></li> <li><strong>Data-Driven Decision Making & Analytics</strong><br><span style="color:gray;">Turning insights into action with precision</span></li> </ul>
+
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SusanHuerta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
