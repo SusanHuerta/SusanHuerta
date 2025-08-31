@@ -23,6 +23,8 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 <!-- SHRM-SCP: Blue (SHRM brand) -->
 <img src="https://img.shields.io/badge/SHRM--SCP-May%202025-005A9C?style=flat&logo=shrm&logoColor=white" />
 
+<img src="https://img.shields.io/badge/SHRM--SCP%20May%202025-005A9C?style=flat&logo=shrm&logoColor=white" />
+
 <!-- HRCI Certifications: Red (HRCI brand) -->
 <img src="https://img.shields.io/badge/SPHR-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" />
 <img src="https://img.shields.io/badge/SPHRi-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" />
