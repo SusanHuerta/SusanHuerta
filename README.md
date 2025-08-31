@@ -3,7 +3,7 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR-GITHUB)  [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://YOUR-SUBSTACK.com)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanhuertaca/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:susankhuertaca@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SusanHuerta)  [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://susanimpact.substack.com/.com)   
 
 
 ## 🌐 Languages
@@ -29,7 +29,6 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 **🧰 Productivity & Collaboration**: 
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanhuerta)
 
 **🎯 HR & Business Tools**:  
 ![LinkedIn Sales](https://img.shields.io/badge/LinkedIn%20Sales%20Navigator-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn%20Recruiter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
