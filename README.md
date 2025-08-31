@@ -60,11 +60,17 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 - Leadership & Team Development  
 - Data-Driven Decision Making & Analytics
 
-- <div style="display: flex; flex-wrap: wrap; gap: 24px; line-height: 1.6; font-size: 16px;">
+---- NEW ONE
 
-<div style="flex: 1;"> <ul> <li><strong>Global Project Coordination</strong><br><span style="color:gray;">Cross-functional leadership across time zones and cultures</span></li> <li><strong>Recruitment Strategy & Candidate Experience</strong><br><span style="color:gray;">Empathy-driven hiring with strategic sourcing</span></li> <li><strong>Process Optimization & Workflow Efficiency</strong><br><span style="color:gray;">Streamlining systems for clarity and impact</span></li> </ul> </div>
 
-<div style="flex: 1;"> <ul> <li><strong>Strategic Communication & Adaptability</strong><br><span style="color:gray;">Tailored messaging for diverse audiences</span></li> <li><strong>Leadership & Team Development</strong><br><span style="color:gray;">Building authentic cultures that scale</span></li> <li><strong>Data-Driven Decision Making & Analytics</strong><br><span style="color:gray;">Turning insights into action with precision</span></li> </ul>
+<!-- Square-style badges for each competency -->
+<img src="https://img.shields.io/badge/Global%20Project%20Coordination-6A5ACD?style=flat&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Recruitment%20Strategy%20%26%20Candidate%20Experience-6A5ACD?style=flat&logo=workplace&logoColor=white" />
+<img src="https://img.shields.io/badge/Process%20Optimization%20%26%20Workflow%20Efficiency-6A5ACD?style=flat&logo=airtable&logoColor=white" />
+<img src="https://img.shields.io/badge/Strategic%20Communication%20%26%20Adaptability-6A5ACD?style=flat&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Leadership%20%26%20Team%20Development-6A5ACD?style=flat&logo=people&logoColor=white" />
+<img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making%20%26%20Analytics-6A5ACD?style=flat&logo=powerbi&logoColor=white" />
+
 
   
 # 📊 GitHub Stats:
