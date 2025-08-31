@@ -1,7 +1,4 @@
-## Hi there 👋
-<!--
-**SusanHuerta/SusanHuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+💫 About Me:
 Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Management who believes that how we make people feel is just as important as what we build. I’m passionate about understanding a company’s DNA—its mission, vision, and values—and translating that into clear, accessible processes that empower every stakeholder. By designing simple, human-centered workflows and fostering consistent, transparent communication, I help position HR as a strategic business partner that drives meaningful, lasting impact.
 
 - 🔭 Currently in HR: I lead initiatives in talent acquisition, management, engagement, and retention, always with a focus on elevating stakeholders experience, optimizing compensation & benefits, streamlining HR workflows, and strengthening internal communication. My experience spans industries like tech, HR consulting, marketing, e-commerce, retail, hospitality, and oil & gas, across regions including Latin America, the U.S., Europe, and the Middle East.
