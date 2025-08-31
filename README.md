@@ -27,10 +27,7 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 ## 💻 Tech Stack  
 
 ### 🗂 Productivity & Collaboration  
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?logo=google&logoColor=white)  
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white)  
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)  
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?logo=google&logoColor=white), ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white), ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white), ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)  
 
 ---
 
