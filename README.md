@@ -12,7 +12,7 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 <table>
   <tr>
-    <td><strong> >🧑‍🤝‍🧑 People Whisperer</strong><br>
+    <td><strong>🧑‍🤝‍🧑 People Whisperer</strong><br>
     <em>HR Strategy | Culture Design | Employee Empowerment</em><br>
     I design environments where people feel seen, supported, and inspired to thrive. From retention frameworks to development plans, I build systems that nurture belonging and elevate performance.
     </td>
