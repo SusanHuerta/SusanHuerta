@@ -29,6 +29,8 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 **🧰 Productivity & Collaboration**: 
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanhuerta)
+
 **🎯 HR & Business Tools**:  
 ![LinkedIn Sales](https://img.shields.io/badge/LinkedIn%20Sales%20Navigator-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn%20Recruiter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
