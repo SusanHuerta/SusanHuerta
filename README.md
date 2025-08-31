@@ -8,6 +8,25 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanhuertaca/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:susankhuertaca@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SusanHuerta)  [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://susanimpact.substack.com/.com)   
 
 
+## ✨ My Superpowers
+
+### 🧭 People Whisperer  
+**HR Strategy | Culture Design | Employee Empowerment**  
+I design environments where people feel seen, supported, and inspired to thrive. From retention frameworks to development plans, I build systems that nurture belonging and elevate performance.
+
+### 🧠 Customer-Centric Thinker  
+**CX Strategy | Empathy-Driven Innovation | Brand Loyalty**  
+I translate empathy into business advantage, bridging internal culture with external experience. By aligning feedback loops and purpose-driven service, I help brands earn trust and deepen connection.
+
+### 🎙 Communication-Driven Strategist  
+**Messaging Strategy | Brand Voice | Behavioral Influence**  
+I turn insight into influence, crafting narratives that transform, connect, and reflect mission. With a pulse on human behavior and strategic storytelling, I create communications that move people to act.
+
+### 🧩 Clarity-Focused Operator  
+**Project Execution | Agile Leadership | Results-Driven Strategy**  
+I bring structure to ambition, simplifying complexity and driving results with precision. Whether leading cross-functional teams or streamlining workflows, I keep momentum aligned with the 
+
+
 ## 🌐 Languages
 
 <a href="#" style="text-decoration:none;">
