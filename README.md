@@ -58,13 +58,13 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making%20%26%20Analytics-6E6E6E?style=flat&logo=powerbi&logoColor=white" />
 
   
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SusanHuerta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SusanHuerta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanHuerta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# 🚀 Early Days, Big Intentions: My GitHub Journey Begins:
+## 🚀 Early Days, Big Intentions: My GitHub Journey Begins:
 My GitHub journey is just beginning, but every contribution reflects the same intention I bring to team culture, stakeholder experience, and creative communication.
 This space is where I experiment, iterate, and document the behind-the-scenes of HR systems, internal branding, and bilingual outreach, all with a focus on clarity and connection.
 GitHub isn’t just for code. For me, it’s a canvas for building processes that feel human, workflows that make sense, and digital stories that resonate.
