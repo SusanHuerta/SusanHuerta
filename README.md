@@ -15,14 +15,12 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 
 ## 🏅 Certifications
-
-![SHRM-SCP](https://img.shields.io/badge/SHRM--SCP-May%202025-blue?style=for-the-badge)
-![SPHR](https://img.shields.io/badge/SPHR-April%202025-blueviolet?style=for-the-badge)
-![SPHRi](https://img.shields.io/badge/SPHRi-April%202025-blueviolet?style=for-the-badge)
-![GPHR](https://img.shields.io/badge/GPHR-April%202025-blueviolet?style=for-the-badge)
-![Google Project Management](https://img.shields.io/badge/Google%20Project%20Management-Aug%202025-yellowgreen?style=for-the-badge&logo=google&logoColor=white)
-![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Aug%202025-yellowgreen?style=for-the-badge&logo=google&logoColor=white)
-
+  
+- **SHRM-SCP** *(May 2025)*  
+- **SPHR / SPHRI / GPHR** *(April 2025)*  
+- **Google Project Management** *(Aug 2025)*  
+- **Google Data Analytics** *(Aug 2025)*
+  
 
 # 💻 Tech Stack:
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
