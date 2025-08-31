@@ -24,6 +24,36 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Aug%202025-red?style=for-the-badge&logo=google&logoColor=white)
 
 
+## 💻 Tech Stack  
+
+### 🗂 Productivity & Collaboration  
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?logo=google&logoColor=white)  
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white)  
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)  
+
+---
+
+### 🎯 HR & Business Tools  
+![LinkedIn Sales Navigator](https://img.shields.io/badge/LinkedIn%20Sales%20Navigator-0A66C2?logo=linkedin&logoColor=white)  
+![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn%20Recruiter-0A66C2?logo=linkedin&logoColor=white)  
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white)  
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)  
+![SurveyMonkey](https://img.shields.io/badge/SurveyMonkey-00BF6F?logo=surveymonkey&logoColor=white)  
+
+---
+
+### 🎨 Creative & Design  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)  
+![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-FF0000?logo=adobe-acrobat-reader&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)  
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)  
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white)  
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+
+--- FEO---
 # 💻 Tech Stack:
 
 **🧰 Productivity & Collaboration**: 
