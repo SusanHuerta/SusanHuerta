@@ -61,10 +61,11 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
   <img src="https://img.shields.io/badge/SPHRi-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" />
   <img src="https://img.shields.io/badge/GPHR-April%202025-C8102E?style=flat&logo=hrci&logoColor=white" />
 
- <!-- Google Certifications: Google brand colors -->
+<!-- Google Certifications: Google brand colors -->
 <img src="https://img.shields.io/badge/Google%20Project%20Management-Aug%202025-4285F4?style=flat&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Aug%202025-34A853?style=flat&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Digital%20Marketing%20%26%20E-Commerce-Sep%202025-FABB05?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Digital%20Marketing%20%26%20E--Commerce-Sep%202025-FABB05?style=flat&logo=google&logoColor=white" />
+
 
 ## 💻 Tech Stack  
 
