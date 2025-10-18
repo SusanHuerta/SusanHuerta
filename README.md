@@ -68,7 +68,7 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 <img src="https://img.shields.io/badge/Google%20UX%20Design-Aug%202025-EA4335?style=flat&logo=google&logoColor=white" />
 </div>
 
--> **Additional Learning & Certifications:** [See more on GitHub](https://github.com/SusanHuerta/Additional-Learning-Certifications)
+**Additional Learning & Certifications:** [Click here to explore](https://github.com/SusanHuerta/Additional-Learning-Certifications)
 
 ## 💻 Tech Stack  
 
