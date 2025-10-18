@@ -71,7 +71,6 @@ Welcome! I’m Susan Huerta, a bilingual professional with a Master’s in HR Ma
 
 <div style="margin-top: 12px;">
   <a href="https://github.com/SusanHuerta/Additional-Learning-Certifications" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Additional%20Learning%20%26%20Certifications-See%20More-blue?style=flat&logo=github" />
   </a>
 </div>
 
